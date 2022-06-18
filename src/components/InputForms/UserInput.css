@@ -1,0 +1,26 @@
+.form-control{
+    margin: 0.5rem 0;
+}
+
+.form-control label{
+    display: block;
+    margin: 0.5rem;
+    margin-top: 1rem;
+    font-weight: 700;
+}
+
+.form-control input{
+    display: block;
+    width:100%;
+    border: 1px solid #ccc;
+    line-height: 1.5rem;
+    padding: 0 0.25rem;
+}
+
+
+.submitButton button{
+    color: white;
+    background-color: purple;
+    padding: 0.5rem 1rem;
+    border: 1px solid white;
+}
